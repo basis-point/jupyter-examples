@@ -2,4 +2,7 @@
 
 # Ultimate Forward Rate term structure example
 
-This repository contains examples how to build different flavours of the Dutch regulatory curve using the functionality available in the open source library QuantLib. More info about QuantLib can be found [here](https://www.quantlib.org/)
+This repository contains examples how to build different flavours of the Dutch regulatory curve using the functionality available in the open source library QuantLib. More info about QuantLib can be found [here](https://www.quantlib.org/).
+
+## License
+This software is licensed under the Apache 2 license. See the [LICENSE](LICENSE) file for details.
