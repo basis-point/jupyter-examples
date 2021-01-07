@@ -5,6 +5,7 @@
 This repository contains examples how to build different flavours of the Dutch regulatory curve using the functionality available in the open source library QuantLib. More info about QuantLib can be found [here](https://www.quantlib.org/).
 
 ![GitHub](https://img.shields.io/github/license/basis-point/ufr-example?style=flat-square)
+[![Contact](https://img.shields.io/badge/Contact-Email-lightgrey?style=flat-square)](mailto:info@basispoint.io)
 
 ## License
 This software is licensed under the Apache 2 license. See the [LICENSE](LICENSE) file for details.
