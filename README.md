@@ -10,7 +10,7 @@ This repository contains examples how to build different flavours of the Dutch r
 
 ## Data Attribution
 
-- Financial data ICE Benchmark Administration Limited (IBA), ICE Swap Rates, 11:00 A.M. (London Time), Based on Euros, retrieved from FRED, Federal Reserve Bank of St. Louis [here](https://fred.stlouisfed.org/)
+- Financial data ICE Benchmark Administration Limited (IBA), ICE Swap Rates, 11:00 A.M. (London Time), Based on Euros, retrieved from FRED, [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/)
 
 
 ## License
