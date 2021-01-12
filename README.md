@@ -4,6 +4,8 @@
 
 This repository contains examples how to build different flavours of the Dutch regulatory curve using the functionality available in the open source library QuantLib. More info about QuantLib can be found [here](https://www.quantlib.org/).
 
+Run this repo online [![Binder](http://mybinder.org/badge_logo.svg)]()
+
 ![GitHub](https://img.shields.io/github/license/basis-point/ufr-example?style=flat-square)
 [![Contact](https://img.shields.io/badge/Contact-Email-lightgrey?style=flat-square)](mailto:info@basispoint.io)
 
