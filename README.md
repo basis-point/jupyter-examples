@@ -1,7 +1,7 @@
 <img width="25%" src="https://uploads-ssl.webflow.com/5fe3e7bd2382b0d5adcf9755/5fe45f175b0aa8f5fde8da09_basispoint_jade.png">
 
 # Ultimate Forward Rate term structure example
-Valuation and risk analytics in the DNB-FTK framework.
+Valuation and risk analytics examples in the DNB-FTK framework.
 
 ![GitHub](https://img.shields.io/github/license/basis-point/ufr-example?style=flat-square)
 [![Contact](https://img.shields.io/badge/Contact-Email-lightgrey?style=flat-square)](mailto:info@basispoint.io)
@@ -10,9 +10,11 @@ Valuation and risk analytics in the DNB-FTK framework.
 
 This repository contains examples how to build different flavours of the Dutch regulatory curve, and the associated risks, using the functionality available in the open source library QuantLib. More info about QuantLib can be found [here](https://www.quantlib.org/).
 
+The examples are exposed for purely educational purposes.
+
 For more info about the Dutch regulatory framework for pension funds visit the website of the [Dutch National Bank](https://www.dnb.nl/).
 
-Run examples:
+Run the notebook:
 
 [![Binder](http://mybinder.org/badge_logo.svg)]()
 
