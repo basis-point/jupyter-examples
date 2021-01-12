@@ -10,7 +10,7 @@ Valuation and risk analytics in the DNB-FTK framework.
 
 This repository contains examples how to build different flavours of the Dutch regulatory curve, and the associated risks, using the functionality available in the open source library QuantLib. More info about QuantLib can be found [here](https://www.quantlib.org/).
 
-For more info about the Dutch regulatory framework for pension funds visit the Dutch National Bank [website](https://www.dnb.nl/).
+For more info about the Dutch regulatory framework for pension funds visit the website of the [Dutch National Bank](https://www.dnb.nl/).
 
 Run examples:
 
