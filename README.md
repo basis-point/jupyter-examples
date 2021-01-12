@@ -16,7 +16,7 @@ For more info about the Dutch regulatory framework for pension funds visit the w
 
 In case of questions or feedback contact us [via email](mailto:info@basispoint.io) or visit [our website](https://basispoint.io).
 
-Run the notebook:
+## Run the notebook
 
 [![Binder](http://mybinder.org/badge_logo.svg)]()
 
