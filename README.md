@@ -14,11 +14,11 @@ The examples are exposed for purely educational purposes.
 
 For more info about the Dutch regulatory framework for pension funds visit the website of the [Dutch National Bank](https://www.dnb.nl/).
 
+In case of questions or feedback contact us [via email](mailto:info@basispoint.io) or visit [our website](https://basispoint.io).
+
 Run the notebook:
 
 [![Binder](http://mybinder.org/badge_logo.svg)]()
-
-In case of questions or feedback contact us [via email](mailto:info@basispoint.io) or visit [our website](https://basispoint.io).
 
 ## Used platforms
 
