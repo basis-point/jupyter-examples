@@ -8,7 +8,7 @@ Valuation and risk analytics examples in the DNB-FTK framework.
 
 ## Overview
 
-This repository contains examples explaining how to build different flavours of the Dutch regulatory curve, and the associated risks, using the functionality from the open source library QuantLib. More info about QuantLib can be found [here](https://www.quantlib.org/).
+This repository contains examples explaining how to build different flavours of the Dutch regulatory curve, and the associated risks, using the functionality from the open source library [QuantLib](https://www.quantlib.org/).
 
 Examples are exposed purely for educational purposes.
 
