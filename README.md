@@ -18,7 +18,7 @@ In case of questions or feedback contact us [via email](mailto:info@basispoint.i
 
 ## Run Jupyter notebook
 
-[![Binder](http://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/basis-point/ufr-example/HEAD)
 
 ## Used platforms
 
