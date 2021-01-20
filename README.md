@@ -3,7 +3,7 @@
 # Ultimate Forward Rate term structure example
 Valuation and risk analytics examples in the DNB-FTK framework.
 
-![GitHub](https://img.shields.io/github/license/basis-point/ufr-example?style=flat-square)
+![GitHub]()
 [![Contact](https://img.shields.io/badge/Contact-Email-lightgrey?style=flat-square)](mailto:info@basispoint.io)
 
 ## Overview
