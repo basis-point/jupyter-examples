@@ -18,7 +18,7 @@ In case of questions or feedback contact us [via email](mailto:info@basispoint.i
 
 ## Run Jupyter notebook
 
-Click on the button below to run this notebook online in Binder.
+Click on the button below to run this notebook online.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/basis-point/ufr-example/HEAD)
 
