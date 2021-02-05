@@ -1,6 +1,9 @@
 <img width="25%" src="https://uploads-ssl.webflow.com/5fe3e7bd2382b0d5adcf9755/5fe45f175b0aa8f5fde8da09_basispoint_jade.png">
 
 # Ultimate Forward Rate term structure example
+
+![](data/differences.png)
+
 Valuation and risk analytics examples in the DNB-FTK framework.
 
 [![Contact](https://img.shields.io/badge/Contact-Email-lightgrey?style=flat-square)](mailto:info@basispoint.io)
