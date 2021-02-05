@@ -4,6 +4,7 @@
 
 Valuation and risk analytics examples in the DNB-FTK framework.
 
+![](data/term_structures.png)
 
 ![](data/sensitivities.png)
 
