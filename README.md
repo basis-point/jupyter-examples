@@ -33,7 +33,7 @@ This repository relies on the [Binder](https://mybinder.readthedocs.io/en/latest
 
 ## Used data
 
-- Financial data ICE Benchmark Administration Limited (IBA), ICE Swap Rates, 12:00 P.M. (London Time), Based on Euros, retrieved from FRED, [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/).
+Financial data ICE Benchmark Administration Limited (IBA), ICE Swap Rates, 12:00 P.M. (London Time), Based on Euros, retrieved from FRED, [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/).
 
 
 ## License
