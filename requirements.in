@@ -1,4 +1,4 @@
 numpy
 ipython
+quantlib
 matplotlib==3.*
-quantlib==1.21
