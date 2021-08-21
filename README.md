@@ -3,7 +3,7 @@
 ## Overview
 
 This repository contains examples showing how to use the open source library [QuantLib](https://www.quantlib.org/) for financial analysis,
-mainly focussing on the challenging topics within the pension sector.
+mainly focussing on the topics within the pension sector.
 
 Examples are exposed purely for educational purposes.
 
