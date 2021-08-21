@@ -2,7 +2,7 @@
 
 # Ultimate Forward Rate term structure example
 
-Valuation and risk analytics examples in the DNB-FTK framework.
+Valuation and risk analytics examples of the DNB-FTK framework.
 
 ![](graphs/term_structures.png)
 
@@ -24,6 +24,3 @@ In case of questions or feedback contact us [via email](mailto:info@basispoint.i
 Click on the button below to run this notebook online.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/basis-point/jupyter-examples/master?filepath=%2Fnotebooks%2Fultimate_forward_rate%2Fufr_example.ipynb)
-
-## License
-This software is licensed under the Apache 2 license. See the [LICENSE](LICENSE) file for details.
