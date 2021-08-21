@@ -18,3 +18,7 @@ In case of questions or feedback contact us [via email](mailto:info@basispoint.i
 Click on the button below to run this notebook online.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/basis-point/jupyter-examples/master?filepath=%2Fnotebooks%2Fzero_coupon_swaps%2Fzero_coupon_swaps_example.ipynb)
+
+## Used data
+
+Financial data ICE Benchmark Administration Limited (IBA), ICE Swap Rates, 11:00 A.M. (London Time), Based on U.S. Dollar, retrieved from FRED, [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/).

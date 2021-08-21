@@ -22,10 +22,6 @@ Click on the button below to run the notebooks online.
 
 This repository relies on the [Binder](https://mybinder.readthedocs.io/en/latest/about.html) project, which is generously supported by [Google Cloud Platform](https://cloud.google.com/), [OVH](https://www.ovh.com/world/), [GESIS Notebooks](https://notebooks.gesis.org) and the [Turing Institute](https://www.turing.ac.uk).
 
-## Used data
-
-Financial data ICE Benchmark Administration Limited (IBA), ICE Swap Rates, 12:00 P.M. (London Time), Based on Euros, retrieved from FRED, [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/).
-
 
 ## License
 This software is licensed under the Apache 2 license. See the [LICENSE](LICENSE) file for details.
