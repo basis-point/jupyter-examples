@@ -17,13 +17,13 @@ For more info about the Dutch regulatory framework for pension funds visit the w
 In case of questions or feedback contact us [via email](mailto:info@basispoint.io) or visit [our website](https://basispoint.io).
 
 [![Contact](https://img.shields.io/badge/Contact-Email-lightgrey?style=flat-square)](mailto:info@basispoint.io)
-![GitHub](https://img.shields.io/github/license/basis-point/ufr-example?style=flat-square)
+![GitHub](https://img.shields.io/github/license/basis-point/jupyter-examples?style=flat-square)
 
 ## Run Jupyter notebook
 
 Click on the button below to run this notebook online.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/basis-point/ufr-example/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/basis-point/jupyter-examples/master?filepath=%2Fnotebooks%2Fultimate_forward_rate%2Fufr_example.ipynb)
 
 ## License
 This software is licensed under the Apache 2 license. See the [LICENSE](LICENSE) file for details.

@@ -10,13 +10,13 @@ Examples are exposed purely for educational purposes.
 In case of questions or feedback contact us [via email](mailto:info@basispoint.io) or visit [our website](https://basispoint.io).
 
 [![Contact](https://img.shields.io/badge/Contact-Email-lightgrey?style=flat-square)](mailto:info@basispoint.io)
-![GitHub](https://img.shields.io/github/license/basis-point/ufr-example?style=flat-square)
+![GitHub](https://img.shields.io/github/license/basis-point/jupyter-examples?style=flat-square)
 
 ## Run Jupyter notebooks
 
 Click on the button below to run the notebooks online.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/basis-point/ufr-example/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/basis-point/jupyter-examples/master)
 
 ## Used platforms
 
