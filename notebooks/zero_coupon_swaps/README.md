@@ -2,13 +2,13 @@
 
 # Zero coupon swaps example
 
-Valuation and risk analytics examples of zero coupon swaps.
+Valuation and risk analysis examples of zero coupon swaps.
 
 ![](graphs/sensitivities.png)
 
 ## Overview
 
-This directory contains examples demonstrating how to build, value and analyse zero coupon swaps instruments using the the open source library [QuantLib](https://www.quantlib.org/).
+This directory contains examples demonstrating how to build, value and analyse zero coupon swaps using the the open source library [QuantLib](https://www.quantlib.org/).
 
 In case of questions or feedback contact us [via email](mailto:info@basispoint.io) or visit [our website](https://basispoint.io).
 
