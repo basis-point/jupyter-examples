@@ -8,7 +8,12 @@ Valuation and risk analysis examples of zero coupon swaps.
 
 This directory contains examples demonstrating how to build, value and analyse the risks of zero coupon swaps using the open source library [QuantLib](https://www.quantlib.org/).
 
+We are looking into various options of constructing interest rate swap term structures, under different interpolation schemes.
+We show the impact that interpolation may have on the valuation of derivatives, zero coupon swaps in this case.
+
 ![](graphs/forward_curves.png)
+
+Interpolation may introduce some artifacts into the distribution of sensitivities. It is important to understand what kind of effects can be expected and how to mitigate them.
 
 ![](graphs/sensitivities.png)
 
