@@ -10,6 +10,8 @@ This directory contains examples demonstrating how to build, value and analyse t
 
 ![](graphs/sensitivities.png)
 
+![](graphs/forward_curves.png)
+
 In case of questions or feedback contact us [via email](mailto:info@basispoint.io) or visit [our website](https://basispoint.io).
 
 [![Contact](https://img.shields.io/badge/Contact-Email-lightgrey?style=flat-square)](mailto:info@basispoint.io)
