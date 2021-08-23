@@ -13,7 +13,7 @@ We show the impact that interpolation may have on the valuation of derivatives, 
 
 ![](graphs/forward_curves.png)
 
-Interpolation may introduce some artifacts into the distribution of sensitivities. It is important to understand what kind of effects can be expected and how to mitigate them.
+Interpolation may introduce some artifacts into the distribution of sensitivities. It is important to understand what kind of effects can be expected and how to mitigate the negative ones.
 
 ![](graphs/sensitivities.png)
 
