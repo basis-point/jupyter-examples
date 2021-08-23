@@ -23,4 +23,5 @@ Click on the button below to run this notebook online.
 
 ## Used data
 
-Financial data ICE Benchmark Administration Limited (IBA), ICE Swap Rates, 11:00 A.M. (London Time), Based on U.S. Dollar, retrieved from FRED, [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/).
+* Financial data ICE Benchmark Administration Limited (IBA), ICE Swap Rates, 12:00 P.M. (London Time), Based on Euros, retrieved from FRED, [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org/);
+* [EMMI](https://www.emmi-benchmarks.eu/euribor-org/euribor-rates.html) interest rate benchmark fixings.
