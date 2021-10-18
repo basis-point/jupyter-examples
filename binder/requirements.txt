@@ -32,7 +32,7 @@ parso==0.8.2
     # via jedi
 pickleshare==0.7.5
     # via ipython
-pillow==8.3.1
+pillow==8.3.2
     # via matplotlib
 prompt-toolkit==3.0.20
     # via ipython
