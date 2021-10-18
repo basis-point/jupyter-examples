@@ -20,7 +20,7 @@ Interpolation may introduce some artifacts into the distribution of sensitivitie
 In case of questions or feedback contact us [via email](mailto:info@basispoint.io) or visit [our website](https://basispoint.io).
 
 [![Contact](https://img.shields.io/badge/Contact-Email-lightgrey?style=flat-square)](mailto:info@basispoint.io)
-![GitHub](https://img.shields.io/github/license/basis-point/jupyter-examples?style=flat-square)
+![GitHub](https://img.shields.io/github/license/basis-point/jupyter-examples)
 
 ## Run Jupyter notebook
 
