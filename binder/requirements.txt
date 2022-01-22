@@ -10,7 +10,7 @@ cycler==0.10.0
     # via matplotlib
 decorator==5.0.9
     # via ipython
-ipython==7.26.0
+ipython==7.31.1
     # via -r requirements.in
 ipython-genutils==0.2.0
     # via traitlets
