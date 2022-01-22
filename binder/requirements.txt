@@ -6,13 +6,11 @@
 #
 backcall==0.2.0
     # via ipython
-colorama==0.4.4
-    # via ipython
 cycler==0.10.0
     # via matplotlib
 decorator==5.0.9
     # via ipython
-ipython==7.26.0
+ipython==7.31.1
     # via -r requirements.in
 ipython-genutils==0.2.0
     # via traitlets
@@ -30,19 +28,23 @@ numpy==1.21.2
     #   matplotlib
 parso==0.8.2
     # via jedi
+pexpect==4.8.0
+    # via ipython
 pickleshare==0.7.5
     # via ipython
 pillow==8.3.2
     # via matplotlib
 prompt-toolkit==3.0.20
     # via ipython
+ptyprocess==0.7.0
+    # via pexpect
 pygments==2.10.0
     # via ipython
 pyparsing==2.4.7
     # via matplotlib
 python-dateutil==2.8.2
     # via matplotlib
-quantlib>=1.23
+quantlib==1.25
     # via -r requirements.in
 six==1.16.0
     # via
