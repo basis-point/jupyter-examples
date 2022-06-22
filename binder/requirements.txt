@@ -22,7 +22,7 @@ matplotlib==3.4.3
     # via -r binder/requirements.in
 matplotlib-inline==0.1.2
     # via ipython
-numpy==1.21.2
+numpy==1.22.0
     # via
     #   -r binder/requirements.in
     #   matplotlib
