@@ -4,13 +4,17 @@
 #
 #    pip-compile requirements.in
 #
+asttokens==2.2.1
+    # via stack-data
 backcall==0.2.0
     # via ipython
 cycler==0.10.0
     # via matplotlib
 decorator==5.0.9
     # via ipython
-ipython==7.31.1
+executing==1.2.0
+    # via stack-data
+ipython==8.10.0
     # via -r binder/requirements.in
 ipython-genutils==0.2.0
     # via traitlets
@@ -34,10 +38,12 @@ pickleshare==0.7.5
     # via ipython
 pillow==9.3.0
     # via matplotlib
-prompt-toolkit==3.0.20
+prompt-toolkit==3.0.36
     # via ipython
 ptyprocess==0.7.0
     # via pexpect
+pure-eval==0.2.2
+    # via stack-data
 pygments==2.10.0
     # via ipython
 pyparsing==2.4.7
@@ -50,12 +56,11 @@ six==1.16.0
     # via
     #   cycler
     #   python-dateutil
+stack-data==0.6.2
+    # via ipython
 traitlets==5.0.5
     # via
     #   ipython
     #   matplotlib-inline
 wcwidth==0.2.5
     # via prompt-toolkit
-
-# The following packages are considered to be unsafe in a requirements file:
-# setuptools
