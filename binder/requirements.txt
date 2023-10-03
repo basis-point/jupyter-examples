@@ -36,7 +36,7 @@ pexpect==4.8.0
     # via ipython
 pickleshare==0.7.5
     # via ipython
-pillow==9.3.0
+pillow==10.0.1
     # via matplotlib
 prompt-toolkit==3.0.36
     # via ipython
@@ -54,6 +54,7 @@ quantlib==1.25
     # via -r binder/requirements.in
 six==1.16.0
     # via
+    #   asttokens
     #   cycler
     #   python-dateutil
 stack-data==0.6.2
