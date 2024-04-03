@@ -15,7 +15,7 @@ decorator==5.0.9
 executing==1.2.0
     # via stack-data
 ipython==8.10.0
-    # via -r binder/requirements.in
+    # via -r requirements.in
 ipython-genutils==0.2.0
     # via traitlets
 jedi==0.18.0
@@ -23,12 +23,12 @@ jedi==0.18.0
 kiwisolver==1.3.1
     # via matplotlib
 matplotlib==3.4.3
-    # via -r binder/requirements.in
+    # via -r requirements.in
 matplotlib-inline==0.1.2
     # via ipython
 numpy==1.22.0
     # via
-    #   -r binder/requirements.in
+    #   -r requirements.in
     #   matplotlib
 parso==0.8.2
     # via jedi
@@ -36,7 +36,7 @@ pexpect==4.8.0
     # via ipython
 pickleshare==0.7.5
     # via ipython
-pillow==10.2.0
+pillow==10.3.0
     # via matplotlib
 prompt-toolkit==3.0.36
     # via ipython
@@ -51,7 +51,7 @@ pyparsing==2.4.7
 python-dateutil==2.8.2
     # via matplotlib
 quantlib==1.25
-    # via -r binder/requirements.in
+    # via -r requirements.in
 six==1.16.0
     # via
     #   asttokens
